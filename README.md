@@ -20,12 +20,11 @@ This project analyzes the relationship between wine prices, ratings, and varieti
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn  
 
 ## Key Insights  
-- Refer to the `insights and findings.pages` file in the outputs folder.  
+- Refer to the `insights and findings.docs` file in the outputs folder.  
 
 ## How to Run the Project  
 1. Open the Jupyter Notebook file (`wine_eda.ipynb`).  
 2. Follow the steps for data cleaning, analysis, and visualization.  
 
-## Contact  
-For queries, contact: sucharitabiswas184@gmail.com  
+
 
